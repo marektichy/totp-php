@@ -56,3 +56,4 @@ ehthumbs_vista.db
 *.log
 *.zip
 .env
+composer.lock

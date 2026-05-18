@@ -1,8 +1,8 @@
 {
-  "name": "marektichyrge/totp-php",
+  "name": "marektichy/totp-php",
   "type": "library",
   "description": "Lightweight, fast, and secure TOTP (2FA) authentication library for PHP — battle tested, dependency free, and ready for enterprise integration.",
-  "homepage": "https://github.com/marektichyrge/totp-php",
+  "homepage": "https://github.com/marektichy/totp-php",
   "license": "MIT",
   "authors": [
     {
